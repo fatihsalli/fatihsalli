@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fatih Şallı</h1>
 <h3 align="center"> I'm a software developer </h3>
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **.Net and React**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **microservice Architecture**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **C# , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **mimsallifatih@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
