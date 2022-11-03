@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fatih Şallı</h1>
 <h3 align="center"> I'm a software developer </h3>
 
-- 🔭 I’m currently working on **.Net and React**
+- 💻 I’m currently working on **.Net Core Developer**
 
-- 🌱 I’m currently learning **microservice Architecture**
+- 💷 I’m currently learning **React**
 
-- 💬 Ask me about **C# , MEARN**
+- 💬 Ask me about **C# , .Net**
 
 - 📫 How to reach me **mimsallifatih@gmail.com**
 
@@ -26,6 +26,8 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://jwt.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="jwt" width="80 height="40"/> </a>   
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitmq" width="40" height="40"/> </a>  
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihsalli&show_icons=true&locale=en" alt="fatihsalli" /></p>
