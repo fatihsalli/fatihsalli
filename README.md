@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I was once an architect but now I'm a software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihsalli&label=Profile%20views&color=0e75b6&style=flat" alt="fatihsalli" /> </p>
 
