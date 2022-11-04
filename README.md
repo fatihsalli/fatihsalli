@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Şallı</h1>
 <h3 align="center"> I'm a software developer </h3>
 
-- 💻 I’m currently working on **.Net Core Developer**
+- 💻 I’m currently working on **.Net Core**
 
 - 💷 I’m currently learning **React**
 
