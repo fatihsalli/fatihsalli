@@ -27,5 +27,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fatihsalli&show_icons=true&locale=en" alt="fatihsalli" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihsalli&" alt="fatihsalli" /></p>
