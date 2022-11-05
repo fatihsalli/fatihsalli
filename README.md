@@ -3,10 +3,6 @@
 
 - 💻 I’m currently working on **.Net Core**
 
-- 💷 I’m currently learning **React**
-
-- 💬 Ask me about **C# , .Net**
-
 - 📫 How to reach me **mimsallifatih@gmail.com**
 
 
