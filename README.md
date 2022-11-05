@@ -26,6 +26,6 @@
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" alt="rabbitmq" width="40" height="40"/> </a>  
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihsalli&show_icons=true&locale=en" alt="fatihsalli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fatihsalli&show_icons=true&locale=en" alt="fatihsalli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihsalli&" alt="fatihsalli" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihsalli&" alt="fatihsalli" /></p>
