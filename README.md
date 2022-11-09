@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Fatih Şallı</h2>
+<h2>Hi 👋, I'm Fatih,</h2>
 
 
 - 💻 I’m currently working on **.Net Core**
