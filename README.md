@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on **.Net Core**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Microservices Architecture**
 
 - 📫 How to reach me **mimsallifatih@gmail.com**
 
