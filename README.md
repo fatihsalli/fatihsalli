@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Fatih,</h2>
 
-- 💻 I’m currently learning **Microservices Architecture with .Net Core**
+- 💻 I’m currently learning **Microservices Architecture**
 
 - 📫 How to reach me **mimsallifatih@gmail.com**
 
