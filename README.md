@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Fatih,</h2>
 
-- 💻 I’m currently learning **Microservices Architecture** and **Go**
+- 💻 I’m currently learning **Microservices Architecture** and **Golang**
 
 - 📫 How to reach me **mimsallifatih@gmail.com**
 
