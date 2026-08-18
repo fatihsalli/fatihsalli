@@ -1,27 +1,27 @@
 <h2>Hi 👋, I'm Fatih</h2>
 
 <p>
-I'm a <strong>Backend Software Engineer</strong> focused on building scalable, reliable and intelligent backend systems.
+<strong>Backend Software Engineer</strong> focused on building scalable, reliable and distributed systems.
 </p>
 
-* 💻 Backend Software Engineer specializing in <strong>.NET & C#</strong>
-* 🏗️ Deepening my knowledge of <strong>Microservices Architecture & Distributed Systems</strong>
-* 🐹 Building backend services with <strong>Golang</strong>
-* 🤖 Exploring <strong>AI, LLM integrations & Model Context Protocol (MCP)</strong>
-* 🧠 Building AI-powered backend projects and experimenting with <strong>tool calling, context-aware systems & LLM integrations</strong>
-* ⚙️ Interested in <strong>Event-Driven Architecture, Messaging, Caching & System Design</strong>
-* 🐳 Working with <strong>Docker, Kubernetes, Redis, RabbitMQ, Azure Service Bus, SQL Server, PostgreSQL & Elasticsearch</strong>
+* 💻 Specialized in <strong>.NET & C#</strong> backend development
+* 🏗️ Focused on <strong>Microservices, Distributed Systems & System Design</strong>
+* 🐹 Expanding my backend expertise with <strong>Golang</strong>
+* 📨 Experienced with <strong>RabbitMQ & Azure Service Bus</strong>
+* ⚡ Working with <strong>Redis, SQL Server, PostgreSQL, MongoDB & Elasticsearch</strong>
+* 🐳 Building and running services with <strong>Docker & Kubernetes</strong>
+* 🤖 Exploring <strong>AI/LLM integration, Tool Calling & Model Context Protocol (MCP)</strong>
 * 📫 Reach me at <strong>[mimsallifatih@gmail.com](mailto:mimsallifatih@gmail.com)</strong>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/fatihsalli/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/fatihsalli/" target="_blank" rel="noreferrer">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
 
-<h3 align="left">Languages & Technologies:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 <p align="left">
 
@@ -50,7 +50,7 @@ I'm a <strong>Backend Software Engineer</strong> focused on building scalable, r
 </a>
 
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
+<img src="https://www.rabbitmq.com/img/rabbitmq-logo.svg" alt="RabbitMQ" width="40" height="40"/>
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -83,32 +83,82 @@ I'm a <strong>Backend Software Engineer</strong> focused on building scalable, r
 
 </p>
 
-<h3 align="left">Backend, Architecture & AI:</h3>
+<h3 align="left">🧩 Backend & Architecture</h3>
 
 <p>
-<strong>• Backend:</strong> .NET, C#, Go, ASP.NET Core, REST APIs
+
+<strong>Backend:</strong> .NET, C#, ASP.NET Core, Go, REST APIs
+
 <br/>
-<strong>• Architecture:</strong> Microservices, Distributed Systems, Clean Architecture, SOLID, System Design
+
+<strong>Architecture:</strong> Microservices, Distributed Systems, Clean Architecture, SOLID, System Design
+
 <br/>
-<strong>• Messaging:</strong> RabbitMQ, Azure Service Bus, Event-Driven Architecture
+
+<strong>Messaging:</strong> RabbitMQ, Azure Service Bus, Event-Driven Architecture
+
 <br/>
-<strong>• Data & Caching:</strong> SQL Server, PostgreSQL, MongoDB, Redis
+
+<strong>Data:</strong> SQL Server, PostgreSQL, MongoDB
+
 <br/>
-<strong>• Search & Observability:</strong> Elasticsearch, Kibana, Datadog
+
+<strong>Caching:</strong> Redis
+
 <br/>
-<strong>• Infrastructure:</strong> Docker, Kubernetes
+
+<strong>Search & Observability:</strong> Elasticsearch, Kibana, Datadog
+
 <br/>
-<strong>• AI & LLM:</strong> LLM Integration, Tool Calling, Model Context Protocol (MCP), AI-powered Backend Systems
+
+<strong>Infrastructure:</strong> Docker, Kubernetes
+
+</p>
+
+<h3 align="left">🤖 AI & Intelligent Systems</h3>
+
+<p>
+Exploring the intersection of <strong>backend engineering and AI</strong>, with a focus on:
+</p>
+
+<p>
+
+• LLM Integration
+
+<br/>
+
+• Tool Calling
+
+<br/>
+
+• AI Agents
+
+<br/>
+
+• Model Context Protocol (MCP)
+
+<br/>
+
+• AI-powered Backend Systems
+
 </p>
 
 <h3 align="left">🚀 Current Focus</h3>
 
 <p>
-Currently building backend systems with <strong>.NET</strong> and exploring
-  <strong>Golang, Microservices, Distributed Systems and AI/LLM technologies</strong>.
+Currently working on backend systems with <strong>.NET</strong> while expanding my experience in
+<strong>Golang, Microservices, Distributed Systems and AI/LLM technologies</strong>.
 </p>
 
 <p>
-I'm particularly interested in combining traditional backend engineering with
-  <strong>AI agents, tool calling and MCP-based systems</strong>.
+I'm particularly interested in building systems where
+<strong>traditional backend architecture meets AI</strong> — connecting LLMs with real-world
+tools, services and data through <strong>MCP</strong>.
+</p>
+
+<h3 align="left">💡 What I'm Building</h3>
+
+<p>
+Currently developing an <strong>MCP-based AI project</strong> that combines backend engineering,
+tool calling and LLM capabilities to create intelligent, context-aware systems.
 </p>
