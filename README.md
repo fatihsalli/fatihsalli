@@ -104,9 +104,11 @@ I'm a <strong>Backend Software Engineer</strong> focused on building scalable, r
 <h3 align="left">🚀 Current Focus</h3>
 
 <p>
-Currently building backend systems with <strong>.NET</strong> and exploring<strong>Golang, Microservices, Distributed Systems and AI/LLM technologies</strong>.
+Currently building backend systems with <strong>.NET</strong> and exploring
+  <strong>Golang, Microservices, Distributed Systems and AI/LLM technologies</strong>.
 </p>
 
 <p>
-I'm particularly interested in combining traditional backend engineering with<strong>AI agents, tool calling and MCP-based systems</strong>.
+I'm particularly interested in combining traditional backend engineering with
+  <strong>AI agents, tool calling and MCP-based systems</strong>.
 </p>
