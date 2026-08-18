@@ -76,31 +76,17 @@ I'm a <strong>Backend Software Engineer</strong> focused on building scalable an
 </a>
 
 </p>
-
 <h3 align="left">Backend & Architecture:</h3>
-
 <p>
-
 <strong>• Backend:</strong> .NET, C#, Go, ASP.NET Core, REST APIs
-
 <br/>
-
 <strong>• Architecture:</strong> Microservices, Distributed Systems, Clean Architecture, SOLID
-
 <br/>
-
 <strong>• Data:</strong> SQL Server, PostgreSQL, MongoDB, Redis
-
 <br/>
-
 <strong>• Messaging:</strong> Azure Service Bus, Event-Driven Architecture
-
 <br/>
-
 <strong>• Search & Observability:</strong> Elasticsearch, Kibana, Datadog
-
 <br/>
-
 <strong>• Infrastructure:</strong> Docker, Kubernetes
-
 </p>
