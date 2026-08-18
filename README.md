@@ -1,14 +1,16 @@
 <h2>Hi 👋, I'm Fatih</h2>
 
 <p>
-I'm a <strong>Backend Software Engineer</strong> focused on building scalable and reliable backend systems.
+I'm a <strong>Backend Software Engineer</strong> focused on building scalable, reliable and intelligent backend systems.
 </p>
 
-* 💻 Backend Software Engineer with a focus on <strong>.NET & C#</strong>
-* 🏗️ Currently deepening my knowledge of <strong>Microservices Architecture & Distributed Systems</strong>
-* 🐹 Learning and building backend services with <strong>Golang</strong>
+* 💻 Backend Software Engineer specializing in <strong>.NET & C#</strong>
+* 🏗️ Deepening my knowledge of <strong>Microservices Architecture & Distributed Systems</strong>
+* 🐹 Building backend services with <strong>Golang</strong>
+* 🤖 Exploring <strong>AI, LLM integrations & Model Context Protocol (MCP)</strong>
+* 🧠 Building AI-powered backend projects and experimenting with <strong>tool calling, context-aware systems & LLM integrations</strong>
 * ⚙️ Interested in <strong>Event-Driven Architecture, Messaging, Caching & System Design</strong>
-* 🐳 Working with <strong>Docker, Redis, SQL Server, PostgreSQL, MongoDB & Elasticsearch</strong>
+* 🐳 Working with <strong>Docker, Kubernetes, Redis, RabbitMQ, Azure Service Bus, SQL Server, PostgreSQL & Elasticsearch</strong>
 * 📫 Reach me at <strong>[mimsallifatih@gmail.com](mailto:mimsallifatih@gmail.com)</strong>
 
 <h3 align="left">Connect with me:</h3>
@@ -24,69 +26,103 @@ I'm a <strong>Backend Software Engineer</strong> focused on building scalable an
 <p align="left">
 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
 </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </a>
 
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </a>
 
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
 </a>
 
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+</a>
+
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </a>
 
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
 </a>
 
 <a href="https://azure.microsoft.com/en-us/products/service-bus" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
 
 </p>
-<h3 align="left">Backend & Architecture:</h3>
+
+<h3 align="left">Backend, Architecture & AI:</h3>
+
 <p>
+
 <strong>• Backend:</strong> .NET, C#, Go, ASP.NET Core, REST APIs
+
 <br/>
-<strong>• Architecture:</strong> Microservices, Distributed Systems, Clean Architecture, SOLID
+
+<strong>• Architecture:</strong> Microservices, Distributed Systems, Clean Architecture, SOLID, System Design
+
 <br/>
-<strong>• Data:</strong> SQL Server, PostgreSQL, MongoDB, Redis
-<br/>
+
 <strong>• Messaging:</strong> RabbitMQ, Azure Service Bus, Event-Driven Architecture
+
 <br/>
+
+<strong>• Data & Caching:</strong> SQL Server, PostgreSQL, MongoDB, Redis
+
+<br/>
+
 <strong>• Search & Observability:</strong> Elasticsearch, Kibana, Datadog
+
 <br/>
+
 <strong>• Infrastructure:</strong> Docker, Kubernetes
+
+<br/>
+
+<strong>• AI & LLM:</strong> LLM Integration, Tool Calling, Model Context Protocol (MCP), AI-powered Backend Systems
+
+</p>
+
+<h3 align="left">🚀 Current Focus</h3>
+
+<p>
+Currently building backend systems with <strong>.NET</strong> and exploring
+<strong>Golang, Microservices, Distributed Systems and AI/LLM technologies</strong>.
+</p>
+
+<p>
+I'm particularly interested in combining traditional backend engineering with
+<strong>AI agents, tool calling and MCP-based systems</strong>.
 </p>
