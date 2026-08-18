@@ -86,43 +86,27 @@ I'm a <strong>Backend Software Engineer</strong> focused on building scalable, r
 <h3 align="left">Backend, Architecture & AI:</h3>
 
 <p>
-
 <strong>• Backend:</strong> .NET, C#, Go, ASP.NET Core, REST APIs
-
 <br/>
-
 <strong>• Architecture:</strong> Microservices, Distributed Systems, Clean Architecture, SOLID, System Design
-
 <br/>
-
 <strong>• Messaging:</strong> RabbitMQ, Azure Service Bus, Event-Driven Architecture
-
 <br/>
-
 <strong>• Data & Caching:</strong> SQL Server, PostgreSQL, MongoDB, Redis
-
 <br/>
-
 <strong>• Search & Observability:</strong> Elasticsearch, Kibana, Datadog
-
 <br/>
-
 <strong>• Infrastructure:</strong> Docker, Kubernetes
-
 <br/>
-
 <strong>• AI & LLM:</strong> LLM Integration, Tool Calling, Model Context Protocol (MCP), AI-powered Backend Systems
-
 </p>
 
 <h3 align="left">🚀 Current Focus</h3>
 
 <p>
-Currently building backend systems with <strong>.NET</strong> and exploring
-<strong>Golang, Microservices, Distributed Systems and AI/LLM technologies</strong>.
+Currently building backend systems with <strong>.NET</strong> and exploring<strong>Golang, Microservices, Distributed Systems and AI/LLM technologies</strong>.
 </p>
 
 <p>
-I'm particularly interested in combining traditional backend engineering with
-<strong>AI agents, tool calling and MCP-based systems</strong>.
+I'm particularly interested in combining traditional backend engineering with<strong>AI agents, tool calling and MCP-based systems</strong>.
 </p>
