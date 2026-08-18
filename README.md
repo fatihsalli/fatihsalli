@@ -86,33 +86,19 @@
 <h3 align="left">🧩 Backend & Architecture</h3>
 
 <p>
-
 <strong>Backend:</strong> .NET, C#, ASP.NET Core, Go, REST APIs
-
 <br/>
-
 <strong>Architecture:</strong> Microservices, Distributed Systems, Clean Architecture, SOLID, System Design
-
 <br/>
-
 <strong>Messaging:</strong> RabbitMQ, Azure Service Bus, Event-Driven Architecture
-
 <br/>
-
 <strong>Data:</strong> SQL Server, PostgreSQL, MongoDB
-
 <br/>
-
 <strong>Caching:</strong> Redis
-
 <br/>
-
 <strong>Search & Observability:</strong> Elasticsearch, Kibana, Datadog
-
 <br/>
-
 <strong>Infrastructure:</strong> Docker, Kubernetes
-
 </p>
 
 <h3 align="left">🤖 AI & Intelligent Systems</h3>
