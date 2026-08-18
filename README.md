@@ -84,7 +84,7 @@ I'm a <strong>Backend Software Engineer</strong> focused on building scalable an
 <br/>
 <strong>• Data:</strong> SQL Server, PostgreSQL, MongoDB, Redis
 <br/>
-<strong>• Messaging:</strong> Azure Service Bus, Event-Driven Architecture
+<strong>• Messaging:</strong> RabbitMQ, Azure Service Bus, Event-Driven Architecture
 <br/>
 <strong>• Search & Observability:</strong> Elasticsearch, Kibana, Datadog
 <br/>
